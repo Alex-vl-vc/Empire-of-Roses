@@ -1,0 +1,30 @@
+{
+	"f_b_1": {
+		"name": "bouqute roses",
+		"cost": 300,
+		"description": "bouqute roses",
+		"order": 3,
+		"img": "/src/img/main/Products/boquetse/images_1.jpg"
+	},
+	"f_b_2": {
+		"name": "Fialka",
+		"cost": 530,
+		"description": "bouqute Fialka",
+		"order": 3,
+		"img": "/src/img/main/Products/boquetse/images_2.jpg"
+	},
+	"f_b_3": {
+		"name": "bouqute narcic",
+		"cost": 280,
+		"description": "bouqute narcic",
+		"order": 3,
+		"img": "/src/img/main/Products/boquetse/images_3.jpg"
+	},
+	"f_b_4": {
+		"name": "Kaktus",
+		"cost": 300,
+		"description": "bouqute Kaktus",
+		"order": 3,
+		"img": "/src/img/main/Products/boquetse/images_4.jpg"
+	}
+}
